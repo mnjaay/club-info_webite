@@ -116,7 +116,7 @@ function Header() {
                 <a href="/Ressources">Ressources</a>
               </li>
               <li className="w-fit h-fit px-2 py-1 rounded-lg hover:bg-gray-700">
-                <a href="#about">A propos</a>
+                <a href="/Abouts">A propos</a>
               </li>
             </ul>
           </div>
