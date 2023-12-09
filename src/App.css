@@ -1,0 +1,44 @@
+/*.all{
+  
+  background: rgb(0,138,168);
+  background: linear-gradient(158deg, rgba(0,138,168,1) 0%, rgba(0,172,188,1) 54%);
+}*/
+
+.bg{
+  
+  z-index: 0;
+ backdrop-filter: blur(15px);
+ background: rgba( 10, 26, 68, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 4px );
+-webkit-backdrop-filter: blur( 4px );
+border-radius: 10px; 
+}
+
+.Texte {
+  color:white;
+  background: url(./assets/images/Screenshot2023-10-10at10-56-26setinfoclub.png) -100px -40px no-repeat;
+  -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.image{
+  object-fit: contain;
+}
+
+.anim{
+  animation: animate 1s linear infinite alternate-reverse;
+}
+
+@keyframes animate {
+  0%{
+      transform: translateY(15px);
+  }
+  100%{
+      transform: translateY(0);
+  }
+}
+
+@media (max) {
+  
+}
