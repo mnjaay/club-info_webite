@@ -37,12 +37,16 @@ function Header() {
                 <a href="/">Accueil</a>
               </li>
                {/*  */}
-              <li className="w-fit h-fit px-2 py-2 rounded-lg hover:bg-gray-700">
+             
+              {/*
+               <li className="w-fit h-fit px-2 py-2 rounded-lg hover:bg-gray-700">
                 <a href="/Projets">Projets</a>
               </li>
-              <li className="w-fit h-fit px-2 py-2 rounded-lg hover:bg-gray-700">
+               <li className="w-fit h-fit px-2 py-2 rounded-lg hover:bg-gray-700">
                 <a href="/Evenements">Evenements</a>
               </li>
+              */}
+             
               <li className="w-fit h-fit px-2 py-2 rounded-lg hover:bg-gray-700">
                 <a href="/Blogs">Blog</a>
               </li>
@@ -103,12 +107,15 @@ function Header() {
               <li className="w-fit h-fit px-2 py-1 rounded-lg hover:bg-gray-700">
                 <a href="/">Accueil</a>
               </li>
-              <li className="w-fit h-fit px-2 py-1 rounded-lg hover:bg-gray-700">
+              {/**
+                <li className="w-fit h-fit px-2 py-1 rounded-lg hover:bg-gray-700">
                 <a href="/Projets">Projets</a>
               </li>
               <li className="w-fit h-fit px-2 py-1 rounded-lg hover:bg-gray-700">
                 <a href="/Evenements">Evenements</a>
               </li>
+               */}
+             
               <li className="w-fit h-fit px-2 py-1 rounded-lg hover:bg-gray-700">
                 <a href="/Blogs">Blog</a>
               </li>
