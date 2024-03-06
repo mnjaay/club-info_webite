@@ -3,7 +3,8 @@ import doune from '../assets/doune.jpeg'
 import cisse410 from '../assets/cisse410.jpg'
 import mndiaye from '../assets/mndiaye.jpg'
 import ad from '../assets/ad.jpg'
-import ahmada from '../assets/ahmada.jpg'
+import ahmada from '../assets/ag.jpeg'
+import sild from '../assets/sild.jpeg'
 import lod from '../assets/lod.jpg'
 import mba from '../assets/mba.jpg'
 import mkk from '../assets/mkk.jpg'
@@ -87,7 +88,7 @@ function OurTeams() {
                         <a href="https://wa.me/221784717646" className="flex h-8 w-8 max-w-full flex-col items-center justify-center rounded-full bg-[#ecf2ff] px-2 font-bold text-[#1353fe]">
                             <FaWhatsapp className='inline-block h-full w-full text-green-700'/>
                         </a>
-                        <a href="https://www.linkedin.com/in/mamadou-ba-06324a247/" className="flex h-8 w-8 max-w-full flex-col items-center justify-center rounded-full bg-[#ecf2ff] px-2 font-bold text-[#1353fe]">
+                        <a href="https://www.linkedin.com/in/latyr-diedhiou-17a290243/" className="flex h-8 w-8 max-w-full flex-col items-center justify-center rounded-full bg-[#ecf2ff] px-2 font-bold text-[#1353fe]">
                             <FaLinkedinIn className='inline-block w-full h-full'/>    
                         </a>
                     </div>
