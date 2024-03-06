@@ -61,7 +61,7 @@ function OurTeams() {
                 </div>
                     {/* Item 3 */}
                 <div className="flex flex-col items-center justify-center gap-4 rounded-xl border border-solid border-blue-800 p-2 hover:scale-105 duration-300">
-                    <img src={doune} alt="" className="mb-4 inline-block h-56 w-full rounded-xl object-cover lg:h-56" />
+                    <img src={sild} alt="" className="mb-4 inline-block h-56 w-full rounded-xl object-cover lg:h-56" />
                     <p className="mb-2 font-bold">Seydina I Laye Diagne</p>
                     <p className="mb-2 text-sm ">Licence 3 Génie Logiciel</p>
                     <div className="mt-4 flex space-x-6">
